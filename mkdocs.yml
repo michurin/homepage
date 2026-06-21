@@ -5,6 +5,7 @@ nav:
   - 'Об этой странице': index.md
 theme:
   name: material
+  favicon: favicon.ico
 
 plugins:
   - search:
